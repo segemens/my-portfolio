@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.639969e2.css",
+    "main.js": "/my-portfolio/static/js/main.77f1aa11.js",
+    "static/js/453.15a626a8.chunk.js": "/my-portfolio/static/js/453.15a626a8.chunk.js",
+    "static/media/software1.png": "/my-portfolio/static/media/software1.efbf17e66c1a4456af4a.png",
+    "static/media/laptop-with-rocket.png": "/my-portfolio/static/media/laptop-with-rocket.c5bfd69856186cde4b84.png",
+    "static/media/egemennoborder.png": "/my-portfolio/static/media/egemennoborder.78c1b09c9c276aed0845.png",
+    "static/media/bootstrap-icons.woff?": "/my-portfolio/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/my-portfolio/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/lingoCards.png": "/my-portfolio/static/media/lingoCards.4569e0b2c36ca34f7122.png",
+    "static/media/todoApp.png": "/my-portfolio/static/media/todoApp.ea54506c229a7a683bfe.png",
+    "static/media/wheaterWebSite.png": "/my-portfolio/static/media/wheaterWebSite.907c1525e72ae6d2773d.png",
+    "static/media/pastalanteExp.png": "/my-portfolio/static/media/pastalanteExp.88423b3432576708fb60.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.639969e2.css.map": "/my-portfolio/static/css/main.639969e2.css.map",
+    "main.77f1aa11.js.map": "/my-portfolio/static/js/main.77f1aa11.js.map",
+    "453.15a626a8.chunk.js.map": "/my-portfolio/static/js/453.15a626a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.639969e2.css",
+    "static/js/main.77f1aa11.js"
+  ]
+}
