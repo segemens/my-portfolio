@@ -20,7 +20,7 @@ const projects = [
         title: "Hava Durumu Sitesi",
         description: "API kullanarak hava durumuna göre şarkı öneren site.",
         technologies: ["HTML", "CSS", "JavaScript", "API"],
-        githubLink: "",
+        githubLink: "https://github.com/segemens/weather_web_site",
         image: WheaterWebSite
     },
     {
@@ -36,7 +36,7 @@ const projects = [
         title: "İngilizce Lingo Kartlar",
         description: "İngilizce geliştirmek için üretilen lingo cards sitesi.",
         technologies: ["HTML", "CSS", "JavaScript", "React", "Bootstrap"],
-        githubLink: "",
+        githubLink: "https://github.com/segemens/lingo-cards",
         image: LingoCards
     }
 ];
